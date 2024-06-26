@@ -5,7 +5,7 @@ LaTeX template to write proposals for NSF ACCESS requests. This template has bee
 This format is well suited for : 
 1. Progress Report
 2. Research Proposal
-3. Renewal Proposal
+3. Renewal Proposal <br>
 which are essential components of an NSF ACCESS proposal (Renewal or fresh). 
 
 The current bibliography style is 
