@@ -15,4 +15,4 @@ The current bibliography style is
 ````
 In case you want to change to another style, please change these lines as per the [bibliography](https://www.overleaf.com/learn/latex/Bibliography_management_in_LaTeX#Introduction) guidelines
 
-For any questionso r improvements to the current template, please contact me at [ssiddharth@ucdavis.edu](mailto:ssiddharth@ucdavis.edu?subject=Test)
+For any questions or improvements to the current template, please contact me at [ssiddharth@ucdavis.edu](mailto:ssiddharth@ucdavis.edu?subject=Test)
