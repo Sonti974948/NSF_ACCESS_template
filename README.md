@@ -1,4 +1,4 @@
-# NSF_ACCESS_template
+# NSF ACCESS Template
 
 LaTeX template to write proposals for NSF ACCESS requests. This template has been adapted from another template in [Overleaf](https://www.overleaf.com/latex/templates/nsf-proposal-template/xchskvnnkrnm)
 
